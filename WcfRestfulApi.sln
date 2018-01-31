@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfRestfulApi", "WcfRestfulApi\WcfRestfulApi.csproj", "{CBCB7E0F-B444-42CA-BB5E-FE472A064B69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{AB2F9DDB-5FBB-4819-9213-E24BB45B82B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CBCB7E0F-B444-42CA-BB5E-FE472A064B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBCB7E0F-B444-42CA-BB5E-FE472A064B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBCB7E0F-B444-42CA-BB5E-FE472A064B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2F9DDB-5FBB-4819-9213-E24BB45B82B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2F9DDB-5FBB-4819-9213-E24BB45B82B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2F9DDB-5FBB-4819-9213-E24BB45B82B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2F9DDB-5FBB-4819-9213-E24BB45B82B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
